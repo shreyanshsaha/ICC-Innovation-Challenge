@@ -5,6 +5,5 @@ The slave code as well as the Master code has been tested and positive results h
 
 ![image1](/Screenshot (271).png)
 
-![image1](/Screenshot (273).png)
+![image2](/Screenshot (273).png)
 
-![image1](/test2.jpeg)
