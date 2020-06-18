@@ -20,3 +20,7 @@ The slave code as well as the Master code has been tested and positive results h
 
 
 ![Screenshot (274)](/asset/Screenshot274.png)
+
+### Hardware 
+
+![Screenshot (274)](/asset/hardware.jpg)
